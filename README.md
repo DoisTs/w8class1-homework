@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Week 8 Class 1 - Homework
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+//
 
 ## Available Scripts
 
